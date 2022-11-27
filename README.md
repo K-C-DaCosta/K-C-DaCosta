@@ -1,6 +1,9 @@
 ### Hello World 👋
-<a href="https://www.blackbot.club"> My site </a>
+I like to code. I'm currently developing my own "forum" software written in rust. I'm extremely interested in crypto (stablecoins specifically) for their potential to be used for microtransactions in software applications. I'm also very interested in webasslembly because can free software developers who target the browser from the javascript ecosystem.
 
+With webassembly we can write maintainable,testable, software in statically typed languages that do alot of book-keeping for you. Which is much better than using a scripting language that was initally intenteded to be used to make webpages more dynamic and not to write massive bodies of code in.
+
+<a href="https://www.blackbot.club">My site BTW</a>
 <!--
 **K-C-DaCosta/K-C-DaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
