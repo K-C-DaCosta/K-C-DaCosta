@@ -4,6 +4,9 @@ I like to code. I'm currently developing my own "forum" software written in rust
 With webassembly we can write maintainable,testable, software in statically typed languages that do **a lot** of book-keeping for you. Which is much better than using a scripting language that was initally intenteded to be used to make webpages more dynamic (and not to write massive bodies of code in).
 
 <a href="https://www.blackbot.club">My site BTW</a> 👌👌
+
+Also I used to write <a href="https://www.youtube.com/@thecoast47/videos" physics simulations in c++ </a> a lot when I was a teen, I don't really have the code anymore but I've been planning on rewriting some of my engines in Rust.
+
 <!--
 **K-C-DaCosta/K-C-DaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
