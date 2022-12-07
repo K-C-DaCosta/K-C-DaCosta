@@ -1,8 +1,6 @@
 ### Hello World 👋
 I like to code. I'm currently developing my own "forum" software written in rust. I'm extremely interested in crypto (stablecoins specifically) for their potential to be used for microtransactions in software applications. I'm also very interested in webasslembly because it can free software developers who target the browser from the javascript ecosystem.
 
-With webassembly we can write maintainable,testable, software in statically typed languages that do **a lot** of book-keeping for you. Which is much better than using a scripting language that was initally intenteded to be used to make webpages more dynamic (and not to write massive bodies of code in).
-
 <a href="https://www.blackbot.club">My site BTW</a> 👌👌
 
 Also I used to write <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen, I don't really have the code anymore but I've been planning on rewriting some of my engines in Rust.
