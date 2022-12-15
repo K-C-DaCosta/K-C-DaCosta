@@ -1,9 +1,9 @@
 ### Hello World 👋
-I like to code. I'm currently developing my own "forum" software written in rust. I'm extremely interested in crypto (stablecoins specifically) for their potential to be used for microtransactions in software applications. I'm also very interested in webasslembly because it can free software developers who target the browser from the javascript ecosystem.
+I like to code. I'm currently developing my own "forum" software written in rust. I'm extremely interested in crypto (stablecoins specifically) for their potential to be used for microtransactions in software applications. I'm also very interested in webassembly because I believe it can free software developers who target the browser from the javascript ecosystem.
 
-<a href="https://www.blackbot.club">My site BTW</a> 👌👌
+<a href="https://www.blackbot.club">My site BTW</a> 👌
 
-Also I used to write <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen, I don't really have the code anymore but I've been planning on rewriting some of my engines in Rust.
+Also I used to write <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen, I don't really have the code anymore but I've been planning on rewriting some of my engines in Rust, however, i'm in no hurry to do that.
 
 <!--
 **K-C-DaCosta/K-C-DaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
