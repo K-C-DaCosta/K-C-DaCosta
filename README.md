@@ -3,6 +3,8 @@ I like to code.  I'm extremely interested in crypto (stablecoins specifically) f
 
 Also I used to write <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen, I don't really have the code anymore but I've been planning on rewriting some of my engines in Rust, however, i'm in no hurry to do that.
 
+I hate larpers on /g/. Invest in rope.
+
 <!--
 **K-C-DaCosta/K-C-DaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
