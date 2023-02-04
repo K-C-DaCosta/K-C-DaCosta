@@ -1,9 +1,9 @@
 ### Hello World 👋
-I like to code.  I'm extremely interested in crypto (stablecoins specifically) for their potential to be used for microtransactions in software applications. I'm also very interested in webassembly because I believe it can free software developers who target the browser from the javascript ecosystem.
+I like to code. I developed an interest in programming through games. I started coding when commercial engines like unity or unreal either didn't exist or weren't available to the public so I primarily used C/C++. These days I have shifted to Rust because it has a proper module system, a cleaner type system, and its much easier to redistribute source. I'm specifically writing libraries/software that target webassembly because I believe it can allow developers to reach more people. The ability for users to reach your code through a click of a hyperlink has obvious benefits.
 
-Also I used to write <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen, I don't really have the code anymore but I've been planning on rewriting some of my engines in Rust, however, i'm in no hurry to do that.
+Also I used to write toy <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen.
 
-I hate larpers on /g/. Invest in rope.
+Note: I hate larpers on /g/. Invest in rope.
 
 <!--
 **K-C-DaCosta/K-C-DaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
