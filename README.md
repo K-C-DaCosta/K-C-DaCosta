@@ -3,7 +3,7 @@ I like to code. I developed an interest in programming through games. I started 
 
 Also I used to write toy <a href="https://www.youtube.com/@thecoast47/videos"> physics simulations in c++ </a> a lot when I was a teen.
 
-Note: I hate larpers on /g/. They should invest in rope.
+To /g/ larpers: please invest in rope.
 
 <!--
 **K-C-DaCosta/K-C-DaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
